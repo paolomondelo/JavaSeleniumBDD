@@ -23,6 +23,5 @@ Feature: LoginFeature
 #      | username | password      |
 #      | admin    | adminpassword |
 #    And I click login button
-#    Then I should see the userform page wrongly
-#    Then I should see the userform page wrongly
+#    Then I should see an error handling message regarding the used incorrect credentials
 
