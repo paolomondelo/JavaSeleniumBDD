@@ -17,3 +17,10 @@ Feature: LoginFeature
     And I click login button
     Then I should see the userform page wrongly
 
+  Scenario: Validate error handling for incorrect credentials used
+#    Given I navigate to the login page
+#    And I enter the following for Login
+#      | username | password      |
+#      | admin    | adminpassword |
+#    And I click login button
+#    Then I should see the userform page wrongly
