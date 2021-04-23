@@ -24,4 +24,5 @@ Feature: LoginFeature
 #      | admin    | adminpassword |
 #    And I click login button
 #    Then I should see an error handling message regarding the used incorrect credentials
+#    And I should see a pop up message
 
