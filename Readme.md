@@ -17,4 +17,8 @@ The code is now upgraded to Cucumber 4 with new
 3. Hooks (@BeforeStep and @AfterStep)
 4. DataTable code change
 
+# To Run Test Cases
+1.Type "mvn verify"
+2. Run
+3. Get the results from target>cucumber-report-html folders
 
